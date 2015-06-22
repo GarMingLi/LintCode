@@ -4,7 +4,6 @@
 样例：
 
 对于字符串"Mr John Smith", 长度为 13
-
 替换空格之后的结果为"Mr%20John%20Smith"
 
 注意
